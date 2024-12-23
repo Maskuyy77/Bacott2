@@ -175,6 +175,33 @@ https://63b2dc7196c38.streamlock.net:1937/GTV2/myStream/chunklist_w641677261.m3u
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
 
+<===================================== Timnas Live =============================>
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS Live",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="TIMNAS Live",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/OkQzNhc.png" group-title="TIMNAS Live",Sportstars 1 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="TIMNAS Live",Indosiar
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.0.2 (Linux;Android 13; 7grf95) ExoPlayerLib/2.15.1
+http://opplex.tv:8080//1525939/1552699/350972
+
+#EXTINF:-1 group-title="TIMNAS Live" tvg-id="SCTV.id" tvg-logo="https://i.imgur.com/4fsGqhZ.png",SCTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.0.2 (Linux;Android 13; 7grf95) ExoPlayerLib/2.15.1
+http://opplex.tv:8080/live/1525939/1552699/351030.ts
+
+
 
 <===================================== HBO FMX =================================>
 
