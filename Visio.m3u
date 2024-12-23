@@ -162,7 +162,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/IndonesianaTV.png" group-title="Indonesia Channels",Indonesiana TV 
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
-https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_2.m3u8
+
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/IndonesianaTV.png" group-title="Indonesia Channels",Indonesiana Musik & Folklor
 https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/chunklist_w1106595939_b1328000.m3u8
