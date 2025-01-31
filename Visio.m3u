@@ -1,27 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/popmusic.png" group-title="Musik",POP Music
-https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/maleo.png" group-title="Musik",Maleo
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/mictv.png" group-title="Musik",MIC TV
-https://v2.siar.us/mic/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/imtv.png" group-title="Musik",IMTV
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/musica.png" group-title="Musik",Musica Studios
-https://ythls.urfan.web.id/stream/UCNlU3oSU8UnJ_V9uMB-cPOg/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/aquarius.png" group-title="Musik",Aquarius Musikindo
-https://ythls.urfan.web.id/stream/UCpJRmMTfdv0iPbnjo6qBw_g/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/nagaswara.png" group-title="Musik",Nagaswara
-https://ythls.urfan.web.id/stream/UCw9QaspFztufNcEBFlwb5iw/master.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/musictv.png" group-title="Musik",Music TV
-https://testfunctionlive.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/musikid.png" group-title="Musik",Musik Indonesia
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/kpoptv.png" group-title="Musik",K-Pop TV
-https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/24kpoptv.png" group-title="Musik",24hr K-Pop TV
-https://live.24hrkpop.com/hls/4/stream.m3u8
 
 
 <=================================Indonesia channel==============================>
@@ -1081,6 +1059,19 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Aniplu
 <======================= Music ==========================>
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44fbdefq689QTtF96qgDs7uqOANgdRK7Zug&s" group-title="Music",POP Music
+https://play.accolamedia.id/accola/popmusic.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA0ppnoCZSq4TgLbv5BL5KVSpHQTT6tNhdnw&s" group-title="Music",Maleo
+https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="hhhtt" group-title="Music",MIC TV
+https://v2.siar.us/mic/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/musikid.png" group-title="Music",Musik Indonesia
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
